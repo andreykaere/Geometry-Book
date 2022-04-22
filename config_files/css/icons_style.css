@@ -1,0 +1,46 @@
+
+/* div.hidden_header h1::before, */
+/* div.hidden_header h2::before, */
+/* div.hidden_header h3::before, */
+div.hidden_header::before {
+	display: inline-block;
+	content: "»";
+	margin-left: -30px;
+	width: 30px;
+}
+
+div.header div:hover {
+    cursor: pointer;
+}
+
+.comment {
+	display: inline;
+	/*background-image: url(icons/comment.svg);*/
+	float: right;
+	/*margin-right: 1%;*/
+}
+
+.comment svg {
+    height: 20px !important;
+}
+
+.edit svg {
+    height: 20px !important;
+}
+
+.edit {
+	display: inline;
+	/*background-image: url("icons/pencil.svg");*/
+    float: right;
+    margin-right: 3%;
+
+}
+
+div.header h1 .edit, div.header h1 .comment {
+    display: none;
+}
+
+/*
+#comment-background.is-visible {
+	visibiliy: visible;
+}*/
