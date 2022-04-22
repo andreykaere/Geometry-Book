@@ -1,6 +1,6 @@
 # Summary
 
-<!--[Предисловие](foreword.md)-->
+<!-- [Предисловие](foreword.md) -->
 
 
 [Предисловие](foreword.md)
