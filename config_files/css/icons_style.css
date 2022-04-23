@@ -14,7 +14,7 @@ div.header div:hover {
 }
 
 .comment {
-	display: inline;
+	/* display: inline; */
 	/*background-image: url(icons/comment.svg);*/
 	float: right;
 	/*margin-right: 1%;*/
@@ -22,14 +22,18 @@ div.header div:hover {
 
 .comment svg {
     height: 20px !important;
+    width: 20px !important;
+    display: none !important;
 }
 
 .edit svg {
     height: 20px !important;
+    width: 20px !important;
+    display: none !important;
 }
 
 .edit {
-	display: inline;
+	/* display: inline; */
 	/*background-image: url("icons/pencil.svg");*/
     float: right;
     margin-right: 3%;
