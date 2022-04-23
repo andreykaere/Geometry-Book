@@ -2,7 +2,7 @@
 
 [book]
 authors = ["Andrey Vladimirov"]
-multilingual = false
+multilingual = false 
 src = "src"
 title = "Геометрия в задачах"
 
@@ -19,3 +19,4 @@ additional-css = [
     "config_files/css/icons_style.css",
     "config_files/css/comment_window_style.css",
 ]
+
