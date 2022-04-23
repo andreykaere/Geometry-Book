@@ -1,6 +1,6 @@
 # Факт 2
 
-\\(ABCD\\) — описанный четырехугольник около окружности \\(\Omega\\).
+\\(ABCD\\) — описанный четырёхугольник около окружности \\(\Omega\\).
 Пусть \\(\alpha\\) и \\(\gamma\\) вписанные окружности треугольников
 \\(ADB\\) и \\(CDB\\) соответственно. Тогда \\(\alpha\\) и \\(\gamma\\)
 касаются \\(BD\\) в одной точке.
@@ -12,13 +12,13 @@
 
 ## Подсказка
 
-Сделайте гомотетию с центром в \\(A\\), переводящую \\(\alpha\\) в
-\\(\Omega\\) и гомотетию с центром в \\(C\\), переводящую \\(\gamma\\) в
-\\(\Omega\\).
+<!-- Сделайте гомотетию с центром в \\(A\\), переводящую \\(\alpha\\) в -->
+<!-- \\(\Omega\\) и гомотетию с центром в \\(C\\), переводящую \\(\gamma\\) в -->
+<!-- \\(\Omega\\). -->
 
 
 ## Доказательство
-<img class="figure" src="../img/facts/fact2/solution/fact2_sol_light.svg" style="display: block;margin-left: auto;margin-right: auto;" height="400">
+<!-- <img class="figure" src="../img/facts/fact2/solution/fact2_sol_light.svg" style="display: block;margin-left: auto;margin-right: auto;" height="400"> -->
 
 
 Обозначим через \\(A\_1\\) и \\(C\_1\\) точки касания \\(BD\\) с

@@ -62,7 +62,7 @@ def change_pen_color(filename):
 
 def main():
     #path = "/home/andrey/Geometry/Geometry Book/src/img/facts/fact7/solution/"
-    path = "/home/andrey/Geometry/Geometry Book/src/img/facts/fact2/problem/"
+    path = "/home/andrey/Geometry/Geometry-Book/src/img/facts/fact2/solution/"
     for name in os.listdir(path):
         try:
             if get_ext(name) == ".asy":

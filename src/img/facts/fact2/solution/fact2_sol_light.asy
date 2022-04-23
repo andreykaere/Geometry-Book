@@ -1,6 +1,8 @@
 import geometry;
 size(5.8cm);
 
+pen penColor = rgb("333333");
+
 circle w = circle((point)(0, 0), 1);
 point o = w.C;
 var r = w.r;
