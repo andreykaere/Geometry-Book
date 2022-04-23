@@ -4,12 +4,13 @@ import os
 import re
 
 
-THEMES = {'light': 'pen penColor = rgb("333333");\n',
-          'rust':  'pen penColor = rgb("262625");\n', 
-          'coal':  'pen penColor = rgb("98a3ad");\n', 
-          'ayu':   'pen penColor = rgb("c5c5c5");\n', 
-          'navy':  'pen penColor = rgb("bcbdd0");\n', 
-         }
+THEMES = {
+    'light': 'pen penColor = rgb("333333");\n',
+    'rust':  'pen penColor = rgb("262625");\n', 
+    'coal':  'pen penColor = rgb("98a3ad");\n', 
+    'ayu':   'pen penColor = rgb("c5c5c5");\n', 
+    'navy':  'pen penColor = rgb("bcbdd0");\n', 
+}
 
 
 NAME_EXP  = re.compile("(.*)_")
