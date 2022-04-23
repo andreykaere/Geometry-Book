@@ -86,10 +86,11 @@ def implement_script(filename, script, get_place):
     html = read_file(filename)
     script_place = get_place(html)
 
-    if script_place: insert_script(filename, 
-                                   html, 
-                                   script_place, 
-                                   script)
+    if script_place: 
+        insert_script(filename, 
+                      html, 
+                      script_place, 
+                      script)
 
 
 

@@ -10,6 +10,7 @@ mdbook build
 #implement preferences
 cd config_files
 ./add_icons.py
+./add_comment_dialog.py
 ./wrap_sections.py
 ./import_styles.py
 ./import_scripts.py
